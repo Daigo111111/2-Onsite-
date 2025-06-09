@@ -1,4 +1,4 @@
-Onsite自动驾驶算法挑战赛 城市与高速赛道 部分效果展示
+<span style="font-size: 20px; font-weight: bold;">Onsite自动驾驶算法挑战赛 城市与高速赛道 部分效果展示</span>
 
 城市环岛场景  
 ![演示动图](REPLAY_0_scenario_f171f712_result.gif)
